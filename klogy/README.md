@@ -9,6 +9,7 @@
     - [当前目录](#当前目录)
     - [计划目录](#计划目录)
   - [总术语表 | Main Term List](#总术语表--main-term-list)
+  - [机械连接方块对齐数值 |](#机械连接方块对齐数值-)
   - [网格 | Grid](#网格--grid)
     - [基础介绍 | Introduction](#基础介绍--introduction)
     - [网格拆分特性 | Grid Splitting Features](#网格拆分特性--grid-splitting-features)
@@ -37,6 +38,13 @@
 | 第一K学速度 |   The First Klogy Speed   |                                       值为 100m/s, 通常情况下, 所有可移动的实体的线速度不会超过这个值                                        |                                 |
 | 第二K学速度 |  The Second Klogy Speed   |                                         值为 104.38m/s, 通常情况下, 不使用推进器为动力的网格最大速度                                         |                                 |
 | 第三K学速度 |   The Third Klogy Speed   |                                         值为 1067.5m/s, 这是游戏内所有的可以移动的实体的最大线速度值                                         |                                 |
+
+
+## 机械连接方块对齐数值 | 
+
+|     类别     | 数值(m) | 备注  |
+| :----------: | :-----: | :---: |
+| 小型普通转子 | 0.00896 |       |
 
 
 ## 网格 | Grid
